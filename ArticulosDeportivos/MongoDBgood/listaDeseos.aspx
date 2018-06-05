@@ -18,7 +18,7 @@
             </div>
             <div class="form-group">
                 <asp:Label ID="lblIdProducto" runat="server" Text="Id Producto"></asp:Label>
-                <asp:TextBox ID="txtIdProducto" runat="server"></asp:TextBox>
+                <asp:TextBox ID="txtIdProducto" runat="server" Height="22px"></asp:TextBox>
             </div>
             <div class="form-group">
                 <asp:Label ID="lblIdCliente" runat="server" Text="Id Cliente"></asp:Label>
