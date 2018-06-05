@@ -1,0 +1,16 @@
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\obj\Debug\ArticulosDeportivos.csprojResolveAssemblyReference.cache
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\ArticulosDeportivos.dll.config
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\ArticulosDeportivos.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\ArticulosDeportivos.pdb
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\EntityFramework.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\upb.tabd.controladora.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\upb.tabd.entidades.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\upb.tabd.broker.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\upb.tabd.controladora.pdb
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\upb.tabd.entidades.pdb
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\EntityFramework.xml
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\bin\upb.tabd.broker.pdb
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\obj\Debug\ArticulosDeportivos.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\ArticulosDeportivos\obj\Debug\ArticulosDeportivos.pdb

@@ -1,0 +1,10 @@
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\bin\Debug\upb.tabd.broker.dll.config
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\bin\Debug\upb.tabd.broker.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\bin\Debug\upb.tabd.broker.pdb
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\bin\Debug\EntityFramework.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\bin\Debug\EntityFramework.xml
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\obj\Debug\upb.tabd.broker.csprojResolveAssemblyReference.cache
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\obj\Debug\upb.tabd.broker.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\upb.tabd.broker\obj\Debug\upb.tabd.broker.pdb

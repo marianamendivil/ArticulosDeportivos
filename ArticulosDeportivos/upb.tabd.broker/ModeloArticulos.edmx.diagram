@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="99036304d738491da0945175a05b2fa7" Name="Diagram1">
+        <EntityTypeShape EntityType="restauradaModel.Categoria" Width="1.5" PointX="5.25" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="restauradaModel.Ciudad" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="restauradaModel.Cliente" Width="1.5" PointX="5.25" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="restauradaModel.DetalleFactura" Width="1.5" PointX="9.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="restauradaModel.Direccion" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="restauradaModel.Factura" Width="1.5" PointX="7.5" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="restauradaModel.Producto" Width="1.5" PointX="7.5" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="restauradaModel.Proveedor" Width="1.5" PointX="5.25" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="restauradaModel.Telefono" Width="1.5" PointX="7.5" PointY="4.625" IsExpanded="true" />
+        <AssociationConnector Association="restauradaModel.FK_Producto_Categoria" ManuallyRouted="false" />
+        <AssociationConnector Association="restauradaModel.FK_Direccion_Ciudad" ManuallyRouted="false" />
+        <AssociationConnector Association="restauradaModel.FK_Cliente_Direccion" ManuallyRouted="false" />
+        <AssociationConnector Association="restauradaModel.FK_Factura_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="restauradaModel.FK_Telefono_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="restauradaModel.FK_DetalleFactura_Factura" ManuallyRouted="false" />
+        <AssociationConnector Association="restauradaModel.FK_DetalleFactura_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="restauradaModel.FK_Proveedor_Direccion" ManuallyRouted="false" />
+        <AssociationConnector Association="restauradaModel.FK_Producto_Proveedor" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

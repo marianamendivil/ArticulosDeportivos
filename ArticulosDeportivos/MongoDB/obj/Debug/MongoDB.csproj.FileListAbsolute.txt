@@ -1,0 +1,6 @@
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\MongoDB\bin\MongoDB.dll.config
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\MongoDB\bin\MongoDB.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\MongoDB\bin\MongoDB.pdb
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\MongoDB\obj\Debug\MongoDB.csprojResolveAssemblyReference.cache
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\MongoDB\obj\Debug\MongoDB.dll
+C:\Users\user1\documents\visual studio 2015\Projects\ArticulosDeportivos\MongoDB\obj\Debug\MongoDB.pdb
